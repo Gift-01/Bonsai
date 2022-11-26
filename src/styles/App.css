@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  width: 100%; 
+  min-height: 100vh;
+  overscroll-behavior:none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sub_nav_bar {
+  display: flex;
+  flex-direction: row;
+  row-gap: 42px;
+}
+
+.mid-sect {
+  display: flex;
+  flex-direction: row;
+  color: #4c525a;
+  margin: 66px 345px 40px 432px;
+  
+
+}
+
+.first-mid-sect {
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: normal;
+  margin-bottom: 15px;
+}
+
+.Toggle-icon {
+  width: 50px;
+  height: 50px;
+  color: #01b289;
+  margin: 0px 28px;
+  font-weight: bolder;
+}
+
+.mid-sect-text {
+  padding: 17px 0px 17px 75px;
+}
+.mid-sect-text-one {
+  line-height: 20px;
+  letter-spacing: 1.22px;
+  padding: 17px 0px;
+}
+.free-text {
+  top: 215.797px;
+  left: 901.148px;
+  width: 130px;
+  height: 48px;
+  margin-left: -100px;
+  margin-top: -15px;
+}

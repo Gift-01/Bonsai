@@ -1,0 +1,32 @@
+.button,
+.button-one {
+  display: flex;
+  flex-direction: column;
+  padding: 12px 22px 9px 22px;
+  margin: 17px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  width: 135px;
+  height: 50px;
+  justify-content: center;
+  border: 1px solid #00b289;
+  background-color: #00b289;
+  color: white;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+.button-one {
+  color: #00b289;
+  background-color: white;
+  width:91px;
+  line-height: 16px;
+  font-size: 13px;
+}
+
+.button-one:hover {
+  background-color: #00b289;
+  color: white;
+}
